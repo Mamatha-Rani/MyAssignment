@@ -1,1 +1,1 @@
-# MyAssignment repo skill
+# MyAssignment
